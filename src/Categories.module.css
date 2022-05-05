@@ -1,0 +1,15 @@
+.category{
+    display:inline-block;
+    
+}
+.Cat_app{
+    padding-top: 10%;
+  text-align: center;
+}
+button{
+    background-color: cadetblue;
+}
+.msg{
+    color: darkolivegreen;
+    font-size: small;
+}

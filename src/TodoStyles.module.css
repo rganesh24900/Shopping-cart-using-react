@@ -1,0 +1,56 @@
+
+body{
+    background-color: darkseagreen;
+}
+ul{
+    background-color: darkolivegreen;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding:0;
+    
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color:forestgreen;
+    text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+a{
+    display: block;
+    padding: 8px;
+}
+li a:hover{
+    background-color: lightgreen;
+}
+.item_builder{ 
+    text-align: center;
+    margin-top: 25px;
+}
+input{
+    margin: 15px;
+}
+.cart_item{
+    border:1px dotted black;
+    background-color:cadetblue;
+}
+.itemlist{
+    background-color:darkslategrey;
+    font-style: italic;
+}
+.pricelist{
+    color:green;
+}
+.itemslot{
+    margin: 8px;
+   background-color: azure;
+   float: none;
+}
+#btn{
+    background-color:maroon;
+
+}
